@@ -30,16 +30,16 @@ python main.py
 ```
 
 ### Imagens do projeto.
-#### Início do Quiz.
+##### Início do Quiz.
 ![Viewport do Projeto][imagem1]
 
-#### Questão que o chatGPT buscou.
+##### Questão que o chatGPT buscou.
 ![Viewport do Projeto][imagem2]
 
-#### Resposta certa.
+##### Quanto é escolhida a resposta certa.
 ![Viewport do Projeto][imagem3]
 
-#### Resposrta Errada.
+##### Quando é escolhida a resposta errada.
 ![Viewport do Projeto][imagem4]
 
 
